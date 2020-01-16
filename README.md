@@ -2,9 +2,13 @@
 Understanding the data includes all activities related querying the data and figuring out which
 business questions the data allow to answer
 The main steps are the following,
+
 1- Acquire the data,
+
 2- Explore the data (query and visualization),
+
 3- Verify the quality,
+
 ==>Start with an initial data collection and proceed with queries in order to get familiar with
 the data, to identify data quality problems, to discover first insights into the data or to
 detect interesting subsets to form hypotheses for hidden information.
